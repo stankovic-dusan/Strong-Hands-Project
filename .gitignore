@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.env.example
+.eslintignore
+.eslintrc.js
+.npmignore
+.prettierignore
+.prettierrc
+
+#Hardhat files
+cache
+artifacts
